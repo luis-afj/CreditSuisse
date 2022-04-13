@@ -1,0 +1,16 @@
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.exe
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.deps.json
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.runtimeconfig.json
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.runtimeconfig.dev.json
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.dll
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\ref\CreditSuisse.dll
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.pdb
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.csproj.AssemblyReference.cache
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.AssemblyInfoInputs.cache
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.AssemblyInfo.cs
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.csproj.CoreCompileInputs.cache
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.dll
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\ref\CreditSuisse.dll
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.pdb
+C:\Luis\ESTUDOS\Entrevistas\CreditSuisseRisk\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.genruntimeconfig.cache
