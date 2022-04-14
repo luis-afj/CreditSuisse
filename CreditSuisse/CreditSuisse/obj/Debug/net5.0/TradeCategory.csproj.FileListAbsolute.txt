@@ -21,7 +21,6 @@ C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\bin\Debug\net5.0\Tra
 C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\bin\Debug\net5.0\TradeCategory.dll
 C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\bin\Debug\net5.0\ref\TradeCategory.dll
 C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\bin\Debug\net5.0\TradeCategory.pdb
-C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\obj\Debug\net5.0\TradeCategory.csproj.AssemblyReference.cache
 C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\obj\Debug\net5.0\TradeCategory.GeneratedMSBuildEditorConfig.editorconfig
 C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\obj\Debug\net5.0\TradeCategory.AssemblyInfoInputs.cache
 C:\Luis\ESTUDOS\Entrevistas\teste\CreditSuisse\CreditSuisse\obj\Debug\net5.0\TradeCategory.AssemblyInfo.cs

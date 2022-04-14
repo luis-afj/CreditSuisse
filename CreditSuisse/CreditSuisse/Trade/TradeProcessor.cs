@@ -26,21 +26,19 @@ namespace CreditSuisse
 
         public List<Risk> ToProcessTradeFile(List<string> inputFile)
         {
-            List<Risk> FileRisks = new List<Risk>();
+            
             DateTime referenceDate = Convert.ToDateTime(inputFile[0].Trim());            
             int numberTrades = Convert.ToInt32(inputFile[1].Trim());
-            Trade trade = new Trade();
+            var cultureInfo = new CultureInfo("en-US");
             string[] colsTrade;
+
+            List<Risk> FileRisks = new List<Risk>();
 
             for (int i = 2; i < numberTrades + 2; i++)
             {
                 colsTrade = inputFile[i].Split(' ');
 
-                trade.Value = Convert.ToDouble(colsTrade[0].Trim());
-                trade.ClientSector = colsTrade[1].Trim();
-
-                var cultureInfo = new CultureInfo("en-US");
-                trade.NextPaymentDate = DateTime.Parse(colsTrade[2].Trim(), cultureInfo);
+                Trade trade = new Trade(Convert.ToDouble(colsTrade[0].Trim()), colsTrade[1].Trim(), DateTime.Parse(colsTrade[2].Trim(), cultureInfo));
 
                 FileRisks.Add(ToProcessTrade(trade, referenceDate));
             }

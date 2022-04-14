@@ -10,9 +10,10 @@ namespace CreditSuisse
 {
     public class Trade : ITrade
     {
-        public double Value { get; set; }
-        public string ClientSector { get; set; }
-        public DateTime NextPaymentDate { get; set; }
+        public double Value { get; private set; }
+        public string ClientSector { get; private set; }
+        public DateTime NextPaymentDate { get; private set; }
+        
 
         public Trade()
         {
